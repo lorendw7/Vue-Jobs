@@ -1,14 +1,27 @@
-# vue-job
+# Vue Jobs - Job Board Application
 
-This template should help get you started developing with Vue 3 in Vite.
+![Vue Jobs Screenshot](./src/assets/img/screenshot.png)
 
-## Recommended IDE Setup
+A full-featured job board application built with Vue 3, featuring job listings management, search functionality, and responsive design.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features
 
-## Customize configuration
+- Browse and search job listings
+- View job details with expandable descriptions
+- Add, edit, and delete job postings
+- Responsive design with Tailwind CSS
+- REST API integration with JSON Server
+- Interactive UI with loading states and notifications
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Technologies Used
+
+- Vue 3 Composition API
+- Vue Router
+- Tailwind CSS
+- Axios for HTTP requests
+- PrimeIcons
+- JSON Server (mock backend)
+- Vue Spinner
 
 ## Project Setup
 
