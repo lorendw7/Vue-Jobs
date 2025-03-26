@@ -1,0 +1,228 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Vue Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (Vue)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Vue.js Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "location": "Brooklyn, NY",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Vue Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Pheonix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Vue Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior Vue Developer",
+      "type": "Internship",
+      "description": "Perfect for recent graduates! Join our team in Austin, TX as a Junior Vue Developer. Gain hands-on experience with Vue.js, work on real projects, and receive mentorship from senior developers.",
+      "location": "Austin, TX",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "TechStart Innovations",
+        "description": "TechStart Innovations focuses on nurturing young talent and providing opportunities for growth in the tech industry. We believe in learning by doing and offer a supportive environment for interns.",
+        "contactEmail": "careers@techstart.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Vue/Node.js Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Seeking a Full Stack Developer proficient in Vue.js and Node.js to join our team in Denver, CO. You'll work on both front-end and back-end development, ensuring seamless integration and performance.",
+      "location": "Denver, CO",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "MountainTech",
+        "description": "MountainTech specializes in building scalable web applications for outdoor and adventure industries. Our team values innovation, sustainability, and a love for the great outdoors.",
+        "contactEmail": "info@mountaintech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Remote Vue Developer",
+      "type": "Contract",
+      "description": "Work from anywhere! We're hiring a Remote Vue Developer for a 6-month contract. Ideal candidates will have experience with Vue 3, Pinia, and Vite. Flexible hours and competitive pay.",
+      "location": "Remote",
+      "salary": "$50 - $70 per hour",
+      "company": {
+        "name": "Global Remote Tech",
+        "description": "Global Remote Tech connects talented developers with companies worldwide. We specialize in remote work solutions and believe in the future of distributed teams.",
+        "contactEmail": "hiring@globalremote.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Vue UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Join our design team in Seattle, WA as a Vue UI/UX Designer. You'll create visually stunning and user-friendly interfaces using Vue.js, Figma, and Tailwind CSS. Portfolio required.",
+      "location": "Seattle, WA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "PixelPerfect Studios",
+        "description": "PixelPerfect Studios is a boutique design agency known for its attention to detail and creative solutions. We work with high-profile clients to deliver exceptional digital experiences.",
+        "contactEmail": "jobs@pixelperfect.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Senior Vue/React Developer",
+      "type": "Full-Time",
+      "description": "Looking for a developer with expertise in both Vue and React to join our team in Chicago, IL. You'll help migrate legacy React apps to Vue while maintaining high performance and code quality.",
+      "location": "Chicago, IL",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Windy City Devs",
+        "description": "Windy City Devs is a premier software development firm serving clients across the Midwest. We value technical excellence and a collaborative approach to problem-solving.",
+        "contactEmail": "recruiting@windycitydevs.com",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Vue Mobile App Developer",
+      "type": "Full-Time",
+      "description": "Join our mobile team in San Francisco, CA to build cross-platform apps with Vue Native. Experience with Capacitor or NativeScript is a plus. Competitive salary and stock options.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "Golden Gate Tech",
+        "description": "Golden Gate Tech is a startup focused on revolutionizing mobile experiences. We offer a fast-paced environment with opportunities for rapid career growth.",
+        "contactEmail": "talent@goldengate.tech",
+        "contactPhone": "555-345-6789"
+      }
+    },
+    {
+      "id": "461e",
+      "title": "Chava Beach",
+      "type": "Internship",
+      "description": "Corrupti anim commo",
+      "location": "Eligendi illum pari",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Walter Mason Plc",
+        "description": "Accusantium tenetur ",
+        "contactEmail": "fycy@mailinator.com",
+        "contactPhone": "+1 (321) 787-3224"
+      }
+    },
+    {
+      "title": "Senior Vue Dev",
+      "type": "Part-Time",
+      "description": "Et est consectetur n",
+      "location": "Doloremque alias rer",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Skinner Gay Plc",
+        "description": "Molestiae adipisicin",
+        "contactEmail": "vityzyj@mailinator.com",
+        "contactPhone": "+1 (633) 805-1001"
+      },
+      "id": "a686"
+    },
+    {
+      "id": "3b54",
+      "title": "Willow Horne",
+      "type": "Remote",
+      "description": "Voluptas voluptates ",
+      "location": "Rerum dolor mollit q",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Leonard French LLC",
+        "description": "Soluta cumque dolore",
+        "contactEmail": "fonota@mailinator.com",
+        "contactPhone": "+1 (268) 401-5197"
+      }
+    },
+    {
+      "id": "bc21",
+      "title": "Jaquelyn Robbins",
+      "type": "Internship",
+      "description": "Omnis architecto lab",
+      "location": "Aperiam odio illo re",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Albert Mann Plc",
+        "description": "Et ut labore dolorem",
+        "contactEmail": "zityd@mailinator.com",
+        "contactPhone": "+1 (823) 862-5565"
+      }
+    }
+  ]
+}
