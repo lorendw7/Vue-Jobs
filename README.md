@@ -2,11 +2,11 @@
 
 ![Vue Jobs Screenshot](./src/assets/img/screenshot.png)
 
-A full-featured job board application built with Vue 3, featuring job listings management, search functionality, and responsive design.
+A full-featured job board application built with Vue 3, featuring job listings management and responsive design.
 
 ## Features
 
-- Browse and search job listings
+- Browse job listings
 - View job details with expandable descriptions
 - Add, edit, and delete job postings
 - Responsive design with Tailwind CSS
